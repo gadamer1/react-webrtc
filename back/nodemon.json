@@ -1,0 +1,5 @@
+{
+  "watch": ["src", ".env", "*.js", ".json", "nodemon.json"],
+  "exec": "ts-node src/index.ts",
+  "ext": "ts json"
+}
